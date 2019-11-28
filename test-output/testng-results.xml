@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Appium" duration-ms="39" started-at="2019-11-07T19:30:36Z" finished-at="2019-11-07T19:30:36Z">
+    <groups>
+    </groups>
+    <test name="Testfolder1" duration-ms="39" started-at="2019-11-07T19:30:36Z" finished-at="2019-11-07T19:30:36Z">
+      <class name="qaclickacademy.appiumTest">
+        <test-method status="PASS" signature="appBrow()[pri:0, instance:qaclickacademy.appiumTest@5474c6c]" name="appBrow" duration-ms="18" started-at="2019-11-08T01:00:36Z" finished-at="2019-11-08T01:00:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appBrow -->
+        <test-method status="PASS" signature="appweb()[pri:0, instance:qaclickacademy.appiumTest@5474c6c]" name="appweb" duration-ms="1" started-at="2019-11-08T01:00:36Z" finished-at="2019-11-08T01:00:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appweb -->
+      </class> <!-- qaclickacademy.appiumTest -->
+    </test> <!-- Testfolder1 -->
+  </suite> <!-- Appium -->
+</testng-results>

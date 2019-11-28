@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="70" started-at="2019-11-08T00:26:52 IST" finished-at="2019-11-08T00:26:52 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="70" started-at="2019-11-08T00:26:52 IST" finished-at="2019-11-08T00:26:52 IST">
+      <class name="qaclickacademy.appiumTest">
+        <test-method status="PASS" signature="appBrow()[pri:0, instance:qaclickacademy.appiumTest@5e3a8624]" name="appBrow" duration-ms="8" started-at="2019-11-08T00:26:52 IST" finished-at="2019-11-08T00:26:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appBrow -->
+        <test-method status="PASS" signature="appweb()[pri:0, instance:qaclickacademy.appiumTest@5e3a8624]" name="appweb" duration-ms="0" started-at="2019-11-08T00:26:52 IST" finished-at="2019-11-08T00:26:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appweb -->
+      </class> <!-- qaclickacademy.appiumTest -->
+      <class name="qaclickacademy.RestTest">
+        <test-method status="PASS" signature="Browser()[pri:0, instance:qaclickacademy.RestTest@5c3bd550]" name="Browser" duration-ms="1" started-at="2019-11-08T00:26:52 IST" finished-at="2019-11-08T00:26:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser -->
+        <test-method status="PASS" signature="web()[pri:0, instance:qaclickacademy.RestTest@5c3bd550]" name="web" duration-ms="1" started-at="2019-11-08T00:26:52 IST" finished-at="2019-11-08T00:26:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- web -->
+      </class> <!-- qaclickacademy.RestTest -->
+      <class name="qaclickacademy.seleniumTest">
+        <test-method status="PASS" signature="Brow()[pri:0, instance:qaclickacademy.seleniumTest@91161c7]" name="Brow" duration-ms="0" started-at="2019-11-08T00:26:52 IST" finished-at="2019-11-08T00:26:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Brow -->
+        <test-method status="PASS" signature="website()[pri:0, instance:qaclickacademy.seleniumTest@91161c7]" name="website" duration-ms="0" started-at="2019-11-08T00:26:52 IST" finished-at="2019-11-08T00:26:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- website -->
+      </class> <!-- qaclickacademy.seleniumTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
