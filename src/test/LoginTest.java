@@ -14,6 +14,7 @@ public class LoginTest {
        driver.get("https://www.spicejet.com/");
        String Title= driver.getTitle();
        System.out.println(Title);
+       driver.close();
    }
 
 }
