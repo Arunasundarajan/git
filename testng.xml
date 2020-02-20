@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite">
-    <test verbose="2" preserve-order="true" name="C:/Users/PREMANAND RAJA/Desktop/Selenium notes/Project2/src">
+    <test verbose="2" preserve-order="true" name="testcase1">
         <classes>
-          <class name="LoginTest.java"/>
+          <class name="test.LoginTest"/>
         </classes>
     </test></suite>
