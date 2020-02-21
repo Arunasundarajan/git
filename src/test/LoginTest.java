@@ -10,9 +10,10 @@ public class LoginTest {
     public void signin()
     {
         //open a webpage
-        System.setProperty("Webdriver.chrome.driver","C:\\Users\\PREMANAND RAJA\\Desktop\\Selenium notes\\Project1\\Driver\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver","C:\\Users\\PREMANAND RAJA\\Desktop\\Selenium notes\\chromedriver.exe");
         WebDriver driver = new ChromeDriver();
         driver.get("https://www.spicejet.com/");
+        driver.manage().window().maximize();
         String Title= driver.getTitle();
         System.out.println(Title);
     }
